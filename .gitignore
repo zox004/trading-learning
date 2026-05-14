@@ -1,0 +1,50 @@
+# 민감 정보 - 거래 데이터
+all_trades.json
+data/
+
+# 민감 정보 - 1월 청산 관련
+**/01_january_liquidation*
+**/personal_finance*
+**/account_*
+
+# 민감 정보 - API/자격증명
+.env
+.env.*
+!.env.example
+*.key
+*_secret*
+*_secrets*
+api_keys/
+credentials/
+config/secrets/
+
+# 시스템
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# 임시
+tmp/
+temp/
+*.log
+*.tmp
+
+# Jupyter
+.ipynb_checkpoints/
