@@ -18,27 +18,32 @@
 
 **『주식시장에서 살아남는 심리 투자 법칙』** (알렉산더 엘더, 신가을 옮김)
 
-- [Q&A 노트](./learning/04_book_notes/elder_trading_psychology/00_qa_notes.md): 책 읽다 막힌 용어·개념 정리
-- [핵심 개념](./learning/04_book_notes/elder_trading_psychology/key_concepts.md): 굵직한 통찰 누적
+- [Q&A 노트](./book_notes/elder_trading_psychology/00_qa_notes.md): 책 읽다 막힌 용어·개념 정리
+- [핵심 개념](./book_notes/elder_trading_psychology/key_concepts.md): 굵직한 통찰 누적
 
 ## 디렉토리 구조
 
 ```
 .
 ├── README.md
-├── learning/
-│   ├── 00_roadmap.md
-│   ├── 01_risk_management.md           # 단계 0 — 위험 관리
-│   ├── 02_market_basics.md
-│   ├── 03_chart_reading.md
-│   ├── 04_book_notes/
-│   │   └── elder_trading_psychology/
-│   │       ├── 00_qa_notes.md          # 용어·개념 Q&A
-│   │       └── key_concepts.md         # 핵심 통찰 누적
-│   ├── 04_trader_study/                # 외부 트레이더 사례 (원본은 비공개)
-│   ├── 05_user_journal/                # 거래 일지 (예정)
-│   └── 99_resources.md
-└── tools/                              # 학습 보조 도구 (예정)
+├── 00_roadmap.md
+├── stage0_risk/
+│   └── risk_management.md           # 단계 0 — 위험 관리
+├── stage1_charts/
+│   ├── market_basics.md             # 시장 구조 기초 (예정)
+│   └── chart_reading.md             # 차트·지표 학습
+├── stage2_cases/                    # 단계 2 — 사례 학습 (외부 트레이더, 비공개 원본)
+│   └── README.md
+├── stage3_paper/                    # 단계 3 — 페이퍼 + 일지 (예정)
+│   ├── template.md
+│   └── entries/
+├── stage4_live/                     # 단계 4 — 소액 실전 (예정)
+├── book_notes/                      # 책 학습 (단계와 독립된 별도 축)
+│   └── elder_trading_psychology/
+│       ├── 00_qa_notes.md
+│       └── key_concepts.md
+├── resources.md
+└── tools/                           # 학습 보조 도구 (예정)
 ```
 
 ## 사용 도구

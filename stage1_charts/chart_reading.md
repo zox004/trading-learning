@@ -1,7 +1,7 @@
 # 단계 1 — 차트 읽기
 
 > 이 문서는 단계 1 (시장·차트 기초) 학습 진행에 따라 누적 작성됩니다.
-> 학습 진행 계획은 [`00_roadmap.md`](00_roadmap.md) 단계 1 섹션 참조.
+> 학습 진행 계획은 [`00_roadmap.md`](../00_roadmap.md) 단계 1 섹션 참조.
 
 ---
 
@@ -50,7 +50,7 @@
 큰 추세 기준      : 가격 vs EMA 200
 ```
 
-[`04_book_notes/elder_trading_psychology/key_concepts.md`](04_book_notes/elder_trading_psychology/key_concepts.md) 항목 11 참조.
+[`key_concepts.md`](../book_notes/elder_trading_psychology/key_concepts.md) 항목 11 참조.
 
 ### 4) 크립토 특수성 — 분석 시 항상 고려
 
@@ -219,7 +219,7 @@ SMA로 만들면 신호가 늦어 큰 움직임 놓침.
 
 > 가격은 거짓말할 수 있지만 모멘텀은 못 한다.
 
-[`04_book_notes/elder_trading_psychology/key_concepts.md`](04_book_notes/elder_trading_psychology/key_concepts.md) 3번 (약세 다이버전스)의 본질. 가격이 신고가 갱신해도 모멘텀이 약해지면 추세는 거짓.
+[`key_concepts.md`](../book_notes/elder_trading_psychology/key_concepts.md) 3번 (약세 다이버전스)의 본질. 가격이 신고가 갱신해도 모멘텀이 약해지면 추세는 거짓.
 
 ---
 

@@ -42,7 +42,7 @@
 실전 자금 투입 전 필수적인 위험 관리 룰 체화.
 
 ### 산출물
-- `learning/01_risk_management.md` — 단계 0 전체 콘텐츠
+- `stage0_risk/risk_management.md` — 단계 0 전체 콘텐츠
 - 1-2% 룰, 손절 원칙, 레버리지 한계, 청산가 이해
 - 사이즈-손절폭 역산 사고 흐름 (4-5 섹션)
 - 트레이더 12/19 사례 분석
@@ -71,8 +71,8 @@
 ### 학습 자료
 - 책: 『주식시장에서 살아남는 심리 투자 법칙』(엘더) 정독 계속
 - 차트: TradingView (BTCUSDT 일봉·4시간봉·1시간봉)
-- 노트: `learning/04_book_notes/elder_trading_psychology/` (계속 누적)
-- 신규 작성: `02_market_basics.md`, `03_chart_reading.md`
+- 노트: `book_notes/elder_trading_psychology/` (계속 누적)
+- 신규 작성: `stage1_charts/market_basics.md`, `stage1_charts/chart_reading.md`
 
 ### 도구
 - TradingView 무료 플랜
@@ -122,9 +122,9 @@
 - 단계 1 완료 평가
 
 ### 산출물
-- `learning/02_market_basics.md` — 시장 기초 정리
-- `learning/03_chart_reading.md` — 차트 도구 사용법
-- `learning/04_book_notes/elder_trading_psychology/` — 책 노트 계속 누적
+- `stage1_charts/market_basics.md` — 시장 기초 정리
+- `stage1_charts/chart_reading.md` — 차트 도구 사용법
+- `book_notes/elder_trading_psychology/` — 책 노트 계속 누적
 - 매주 1회 학습 회고 (선택)
 
 ### 완료 기준
@@ -163,8 +163,8 @@
 - 사이즈 단계적 확대 — 검증 후 증액의 원칙
 
 ### 산출물
-- `learning/04_trader_study/01_overview.md` (현재 placeholder 채움)
-- `learning/04_trader_study/02_key_lessons.md` (현재 placeholder 채움)
+- `stage2_cases/01_overview.md` (현재 placeholder 채움)
+- `stage2_cases/02_key_lessons.md` (현재 placeholder 채움)
 - 추가 분석 노트들 (필요시)
 
 ### 완료 기준
@@ -200,8 +200,8 @@
 - 모든 거래 일지 작성 (진입 이유·결과·교훈)
 
 ### 산출물
-- `learning/05_user_journal/template.md` (현재 placeholder 채움)
-- `learning/05_user_journal/entries/` — 일일 거래 일지
+- `stage3_paper/template.md` (현재 placeholder 채움)
+- `stage3_paper/entries/` — 일일 거래 일지
 - 월간 통계 분석 (승률·손익비·MDD 등)
 
 ### 완료 기준
