@@ -4,7 +4,7 @@
 
 ## 목표
 
-초보 단계에서 시작해 직접 트레이딩 능력 향상. 1-2년 장기 학습 계획.
+초보 단계에서 시작해 base가 탄탄한 트레이더로 성장. 기간 압박 없는 장기 학습.
 
 ## 학습 단계
 
@@ -32,8 +32,9 @@
 ├── stage1_charts/
 │   ├── market_basics.md             # 시장 구조 기초 (예정)
 │   └── chart_reading.md             # 차트·지표 학습
-├── stage2_cases/                    # 단계 2 — 사례 학습 (외부 트레이더, 비공개 원본)
-│   └── README.md
+├── stage2_cases/                    # 단계 2 — 사례 학습 (외부 트레이더, 신빙성 미검증 사례)
+│   ├── 01_overview.md
+│   └── 02_key_lessons.md
 ├── stage3_paper/                    # 단계 3 — 페이퍼 + 일지 (예정)
 │   ├── template.md
 │   └── entries/
